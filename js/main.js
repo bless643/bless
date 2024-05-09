@@ -796,7 +796,7 @@ setTimeout(() => {
 // Preloader text handling
 
 new Typewriter(".loading-text", {
-  strings: ["The brilliance of Carlis Coleman is on its way..."],
+  strings: ["The brilliance of Blessing Fawole is on its way..."],
   autoStart: true,
   delay: 50,
   cursor: "|",
