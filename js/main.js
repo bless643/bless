@@ -886,7 +886,7 @@ $(document).ready(function () {
       title: "QR-Express",
       subTitle:
         "Swift Solutions with QR-Express",
-      thumbnail: "/img/thumbnails/qr-express.png",
+      thumbnail: "./img/thumbnails/qr-express.png",
       description:
         "Elevate your efficiency with QR-Express, the cutting-edge web app designed for seamless QR code management. Scan, generate, and organize QR codes effortlessly, streamlining your workflow with precision and speed.",
       techStack: ["JavaScript", "HTML", "Twainland CSS", ],
@@ -913,7 +913,7 @@ $(document).ready(function () {
     {
       title: "Speed Scripter",
       subTitle: "Enhancing Typing Skills",
-      thumbnail: "./img/thumbnails/img/thumbnails/speed-scripter.png",
+      thumbnail: "./img/thumbnails/speed-scripter.png",
       description:
         "Speed Scripter is a web application designed to help users improve their typing speed and accuracy. Built with HTML, CSS, and JavaScript, this app presents users with a word to type within a specified time frame, offering a fun and challenging way to enhance typing skills.",
       techStack: ["JavaScript", "HTML", "CSS"],
