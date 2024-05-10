@@ -890,7 +890,7 @@ $(document).ready(function () {
       description:
         "Elevate your efficiency with QR-Express, the cutting-edge web app designed for seamless QR code management. Scan, generate, and organize QR codes effortlessly, streamlining your workflow with precision and speed.",
       techStack: ["JavaScript", "HTML", "Twainland CSS", ],
-      srcURL: "https://bless643.github.io/QR-Express",
+      srcURL: "https://bless643.github.io/qr-express",
     },
     {
       title: "Food Express",
@@ -908,7 +908,7 @@ $(document).ready(function () {
       description:
         "Introducing the Exchange Rate Calculator – your go-to web app for quick and accurate currency conversions. Seamlessly navigate through global currencies, effortlessly calculate exchange rates, and stay informed about real-time updates. Simplify your financial transactions and travel planning with this user-friendly tool.",
       techStack: ["JavaScript", "HTML", "CSS"],
-      srcURL: "https://bless643.github.io/Exchange-rate-calculator/",
+      srcURL: "https://bless643.github.io/Exchange-Rate-Calculator/",
     },
     {
       title: "Speed Scripter",
